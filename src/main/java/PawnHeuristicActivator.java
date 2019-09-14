@@ -4,7 +4,7 @@ import com.truecaller.test.pawn.executor.PawnHeuristicSolver;
  * @author ranjan kumar
  * 
  * 
- *         Activator class : Trigger point Calling PawnHeuristicSolver to
+ *         Activator class :  Trigger point Calling PawnHeuristicSolver to
  *         execute the main logic to solve this heuristic pawn problem
  * 
  *         Applied Warnsdorff’s heuristics:
